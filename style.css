@@ -1,0 +1,16 @@
+#carouselExampleFade{
+	border: 5px;
+	padding: 5px;
+	margin: 50px;
+	overflow: auto;
+	float: right;
+}
+
+body{
+	background-color: red;
+}
+
+#navibutton{
+	
+	
+}
